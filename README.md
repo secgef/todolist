@@ -6,7 +6,7 @@ To Do List menggunakan teknologi Javascript.
 - Bisa digunakan untuk kehidupan sehari hari.
 
 # Contoh
-Bisa dicek disini > https://secgoh.github.io/todolist.
+Bisa dicek disini > https://secgef.github.io/todolist.
 
 # Terima Kasih
 Telah mengunjungi situs ini.
